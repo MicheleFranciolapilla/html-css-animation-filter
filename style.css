@@ -75,6 +75,12 @@
     filter: grayscale(100%) brightness(110%);
 }
 
+/* Non essendo esperto di fotografia l'ho buttata li' */
+.ex-8-img:hover{
+    border-radius: 15px;
+    filter: sepia(100%) saturate(20%);
+}
+
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
