@@ -227,11 +227,11 @@
         }
     60% {
         top: 60px;
-        left: -10px;
+        left: -30px;
         }
     80% {
         top: -10px;
-        left: -10px;
+        left: -30px;
         }
     100%{
         top: -10px;
@@ -252,11 +252,11 @@
         }  
     20% {
         bottom: -10px;
-        right: calc(100% - 50px);
+        right: calc(100% - 30px);
         } 
     40% {
         bottom: 60px;
-        right: calc(100% - 50px);
+        right: calc(100% - 30px);
         }
     60% {
         bottom: 60px;
